@@ -13,6 +13,8 @@ namespace ConsoleTest
 			//change
 
 			// Change on Feature-branch
+
+			// Fix #1
 		}
 	}
 }
